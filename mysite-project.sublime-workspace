@@ -1,0 +1,911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"model",
+				"model\tmodel"
+			],
+			[
+				"publish",
+				"published_date"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"list",
+				"list_grafik\tstatement"
+			],
+			[
+				"gra",
+				"grafik_data\tstatement"
+			],
+			[
+				"periode",
+				"PeriodeHibah\tclass"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"spa",
+				"word-spacing"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"user",
+				"user_passes_test\tfunction"
+			],
+			[
+				"daftar",
+				"daftar_izin\tfunction"
+			],
+			[
+				"waktu__",
+				"waktu__month"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"BSE",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"karya",
+				"Karyawan"
+			],
+			[
+				"karyawa",
+				"karyawan__id"
+			],
+			[
+				"batalka",
+				"batalkan_izin\tfunction"
+			],
+			[
+				"waktu",
+				"waktu_berhenti"
+			],
+			[
+				"Izin",
+				"IzinForm\tclass"
+			],
+			[
+				"izin",
+				"IzinForm\tclass"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"form",
+				"forms\tmodule"
+			],
+			[
+				"admin",
+				"adminview\tModel Admin View"
+			],
+			[
+				"date",
+				"DateField\tclass"
+			],
+			[
+				"kar",
+				"Karyawan\tclass"
+			],
+			[
+				"Model",
+				"ModuleNotFoundError\tclass"
+			],
+			[
+				"clas",
+				"class\tNew Class"
+			],
+			[
+				"keha",
+				"Kehadiran\tclass"
+			],
+			[
+				"ke",
+				"Kehadiran\tclass"
+			],
+			[
+				"view",
+				"views\tmodule"
+			],
+			[
+				"login",
+				"login_url\tparam"
+			],
+			[
+				"log",
+				"logout\tfunction"
+			],
+			[
+				"auth",
+				"authenticate\tfunction"
+			],
+			[
+				"cot",
+				"contrib\tmodule"
+			],
+			[
+				"__",
+				"__init__\tinit"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"jeniskar",
+				"JENIS_KARYAWAN_CHOICES\tstatement"
+			],
+			[
+				"jeniskela",
+				"JENIS_KELAMIN_CHOICES\tstatement"
+			],
+			[
+				"JENIS",
+				"JENIS_KELAMIN_CHOICES\tstatement"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"tglda",
+				"tgl_daftar_axis"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"stati",
+				"statistik_pmb_model"
+			],
+			[
+				"week",
+				"week_days"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"exp",
+				"expTgl"
+			],
+			[
+				"retu",
+				"result_array"
+			],
+			[
+				"inputju",
+				"inputJurusan4"
+			],
+			[
+				"total_mhs",
+				"total_mhs_2"
+			],
+			[
+				"return",
+				"return_value"
+			],
+			[
+				"ACAMA",
+				"ACama2016"
+			],
+			[
+				"result",
+				"result_array"
+			],
+			[
+				"TRUE",
+				"TRUE"
+			],
+			[
+				"SESS",
+				"_SESSION"
+			],
+			[
+				"sessstat",
+				"session_start"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 3164,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/models.py",
+			"settings":
+			{
+				"buffer_size": 505,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/admin.py",
+			"settings":
+			{
+				"buffer_size": 113,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 163.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"run",
+				"Django: Run Server"
+			],
+			[
+				"runser",
+				"Django: Run Server"
+			],
+			[
+				"makemi",
+				"Django: Make Migration"
+			],
+			[
+				"mek",
+				"Django: Make Migration"
+			],
+			[
+				"migra",
+				"Django: Migrate Database"
+			],
+			[
+				"migrate",
+				"Django: Migrate Database"
+			],
+			[
+				"make",
+				"Django: Make Migration"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"command",
+				"Django: Other Command"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"packalist",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 50320))",
+			"import socket;socket.socket(socket.AF_INET,socket.SOCK_STREAM).connect((\"localhost\",50320))",
+			"sublime.active_window().project_data()",
+			"socket.socket(socket.AF_INET,socket.SOCK_STREAM).connect((\"localhost\", 50181))",
+			"import socket",
+			"import socket;",
+			"impoty socket;",
+			"Django",
+			"Run Server",
+			"Django: Run Server",
+			"django: help",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Project/mysite",
+		"/F/Project/mysite/blog"
+	],
+	"file_history":
+	[
+		"/C/Users/mn/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/F/Project/mysite/mysite-project.sublime-project",
+		"/C/Users/mn/AppData/Roaming/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/C/Users/mn/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/F/Project/mysite/mysite/urls.py",
+		"/F/Project/mysite/mysite/wsgi.py",
+		"/F/UMS/isrecod/templates/menu_left.html",
+		"/F/UMS/isrecod/statistik/urls.py",
+		"/F/UMS/isrecod/templates/statistik/statistik_batch.html",
+		"/F/UMS/isrecod/sppd/views.py",
+		"/F/UMS/isrecod/statistik/views.py",
+		"/F/UMS/isrecod/templates/hibah/ajuan.html",
+		"/F/UMS/isrecod/kontrak/urls.py",
+		"/F/UMS/isrecod/hibah/urls.py",
+		"/F/UMS/isrecod/hibah/views.py",
+		"/F/UMS/isrecod/templates/hibah/kelayakan.html",
+		"/F/UMS/isrecod/isrecod/urls.py",
+		"/F/UMS/isrecod/isrecod/views.py",
+		"/F/UMS/isrecod/peneliti/views.py",
+		"/F/UMS/isrecod/isrecod/settings.py",
+		"/F/UMS/isrecod/isrecod/lookups.py",
+		"/F/UMS/isrecod/hibah/forms.py",
+		"/F/UMS/isrecod/logbook/admin.py",
+		"/F/UMS/isrecod_project.sublime-project",
+		"/F/UMS/isrecod/manage.py",
+		"/F/Project/daftar_member/pendaftaran/models.py",
+		"/F/Project/daftarmember.sublime-project",
+		"/F/UMS/mini_hrd/kehadiran/templates/daftar_hadir.html",
+		"/F/UMS/mini_hrd/kehadiran/templates/tampil_grafik.html",
+		"/F/UMS/mini_hrd/kehadiran/views.py",
+		"/F/UMS/mini_hrd/mini_hrd/urls.py",
+		"/F/UMS/mini_hrd/homepage/templates/login.html",
+		"/F/UMS/mini_hrd/kehadiran/templates/daftar_izin.html",
+		"/F/UMS/mini_hrd/templates/layout/base-login.html",
+		"/F/UMS/mini_hrd/templates/layout/sidebar.html",
+		"/F/UMS/mini_hrd/karyawan/templates/profil.html",
+		"/F/UMS/mini_hrd/kehadiran/templates/new/tambah_izin.html",
+		"/F/UMS/mini_hrd/kehadiran/templates/tambah_izin.html",
+		"/F/UMS/mini_hrd/templates/layout/base.html",
+		"/F/UMS/mini_hrd/templates/layout/head.html",
+		"/F/UMS/mini_hrd/templates/layout/nav.html",
+		"/F/UMS/mini_hrd/mini_hrd/settings.py",
+		"/F/UMS/mini_hrd/kehadiran/models.py",
+		"/F/UMS/mini_hrd/kehadiran/admin.py",
+		"/F/UMS/mini_hrd/kehadiran/forms.py",
+		"/F/UMS/mini_hrd/karyawan/views.py",
+		"/F/UMS/mini_hrd/karyawan/models.py",
+		"/F/UMS/Sublime Project/mini_hrd.sublime-project",
+		"/F/UMS/mini_hrd/homepage/views.py",
+		"/C/Users/mn/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/UMS/mini_hrd/karyawan/admin.py",
+		"/F/UMS/mini_hrd/homepage/admin.py",
+		"/F/UMS/mini_hrd/manage.py",
+		"/F/UMS/Sublime Project/mini_hrd/karyawan/models.py",
+		"/F/UMS/Sublime Project/mini_hrd/karyawan/admin.py",
+		"/F/UMS/hrd.sublime-project",
+		"/F/UMS/mini_hrd/karyawan/__init__.py",
+		"/C/Users/mn/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/F/XAMPP/htdocs/sia/application/views/admin/akademik_page.php",
+		"/F/XAMPP/htdocs/sia/application/views/index.html",
+		"/F/XAMPP/htdocs/sia/application/controllers/statistik_pmb.php",
+		"/F/UMS/update statistik.txt",
+		"/F/XAMPP/htdocs/sia_2/application/controllers/statistik_pmb.php",
+		"/F/XAMPP/htdocs/siap/e1.php",
+		"/F/XAMPP/htdocs/siap/cek_login.php",
+		"/F/XAMPP/htdocs/siap/ee1.php",
+		"/F/XAMPP/htdocs/siap/input_prostho.php",
+		"/F/XAMPP/htdocs/siap/ii1.php",
+		"/F/XAMPP/htdocs/siap/t2.php",
+		"/F/XAMPP/htdocs/siap/t3.php",
+		"/F/XAMPP/htdocs/siap/t4.php",
+		"/F/XAMPP/htdocs/siap/t5.php",
+		"/F/XAMPP/htdocs/siap/t6.php",
+		"/F/XAMPP/htdocs/siap/t7.php",
+		"/F/XAMPP/htdocs/siap/t8.php",
+		"/F/XAMPP/htdocs/siap/t9.php",
+		"/F/XAMPP/htdocs/siap/update_mahasiswa.php",
+		"/F/XAMPP/htdocs/siap/update_mk1.php",
+		"/F/XAMPP/htdocs/siap/update_mk10.php",
+		"/F/XAMPP/htdocs/siap/update_mk2.php",
+		"/F/XAMPP/htdocs/siap/update_mk3.php",
+		"/F/XAMPP/htdocs/siap/update_mk4.php",
+		"/F/XAMPP/htdocs/siap/update_mk5.php",
+		"/F/XAMPP/htdocs/siap/update_mk6.php",
+		"/F/XAMPP/htdocs/siap/update_mk7.php",
+		"/F/XAMPP/htdocs/siap/update_mk8.php",
+		"/F/XAMPP/htdocs/siap/update_mk9.php",
+		"/F/XAMPP/htdocs/siap/input_rdl.php",
+		"/F/XAMPP/htdocs/siap/input_user.php",
+		"/F/XAMPP/htdocs/siap/mm2.php",
+		"/F/XAMPP/htdocs/siap/mm3.php",
+		"/F/XAMPP/htdocs/siap/input_ods.php",
+		"/F/XAMPP/htdocs/siap/input_peri.php",
+		"/F/XAMPP/htdocs/siap/ee10.php",
+		"/F/XAMPP/htdocs/siap/ee2.php",
+		"/F/XAMPP/htdocs/siap/ee3.php",
+		"/F/XAMPP/htdocs/siap/ee4.php",
+		"/F/XAMPP/htdocs/siap/ee5.php",
+		"/F/XAMPP/htdocs/siap/ee6.php",
+		"/F/XAMPP/htdocs/siap/ee7.php",
+		"/F/XAMPP/htdocs/siap/ee8.php",
+		"/F/XAMPP/htdocs/siap/ee9.php",
+		"/F/XAMPP/htdocs/siap/input_bemu.php",
+		"/F/XAMPP/htdocs/siap/input_ikgm.php",
+		"/F/XAMPP/htdocs/siap/input_ipm.php",
+		"/F/XAMPP/htdocs/siap/input_kga.php",
+		"/F/XAMPP/htdocs/siap/input_kogi.php",
+		"/F/XAMPP/htdocs/siap/input_ksn.php",
+		"/F/XAMPP/htdocs/siap/input_mahasiswa.php",
+		"/F/XAMPP/htdocs/siap/t10.php",
+		"/F/XAMPP/htdocs/siap/t1.php",
+		"/K/FIle Laptop Acer/UMS/dump/dump/ajurusan_dump.sql",
+		"/K/FIle Laptop Acer/UMS/dump/dump/ajurusan.sql",
+		"/K/FIle Laptop Acer/UMS/dump/ajurusan.sql",
+		"/F/XAMPP/htdocs/sia/system/core/Common.php",
+		"/C/Users/mn/Documents/Received Files/hosts",
+		"/F/XAMPP/htdocs/sia/application/models/statistik_pmb_model.php",
+		"/F/XAMPP/htdocs/sia/application/config/database.php",
+		"/F/XAMPP/htdocs/sia/application/config/config.php",
+		"/F/XAMPP/htdocs/sia/application/config/routes.php",
+		"/F/XAMPP/htdocs/sia/application/controllers/sia.php",
+		"/F/XAMPP/htdocs/sia/application/controllers/pmb.php",
+		"/F/XAMPP/htdocs/sia/application/config/routes_2.php",
+		"/C/Program Files/Sublime Text 3/changelog.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"F:\\XAMPP\\htdocs\\siap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test_command",
+			"python_interpreter",
+			"pep257",
+			"settings",
+			"build_systems",
+			"folders",
+			"python_interpreter",
+			"lintin",
+			"Ajuan.objects.filter",
+			"'\n",
+			"PeriodeHibah",
+			"400px",
+			"line_chart",
+			"config",
+			"pengabdian",
+			"review_penelitian",
+			"review_pengabdian",
+			"statistik",
+			"hibah_pemaparan_reviewer",
+			"hibah_persetujuan",
+			"hibah_kelayakan_review",
+			"surat_kontrak_list",
+			"PdfA4Letter",
+			"cek_boleh_usul",
+			"morris-bar-chart",
+			"    ",
+			"silahkan masukkan ",
+			"jenis izin",
+			"admin",
+			"Admin",
+			"nama_karyawan",
+			"add_message",
+			"message.",
+			"message",
+			"__unicode__",
+			". ",
+			"str(",
+			"', '",
+			"    ",
+			"kontrak",
+			"*1000",
+			"highcharts",
+			"TGL_DAFTAR",
+			"intval($value['WEEK_DAYS'])",
+			"subtitle",
+			".'/'.",
+			"','.",
+			"WEEK_ORDER",
+			"MINGGU",
+			"NOMOR",
+			"HARI",
+			"BULAN",
+			"Bulan",
+			"2015",
+			"getWeekDays",
+			"$tgl_daftar;",
+			".'/'.",
+			".$expTgl[2].'/'.$expTgl[1].'/'.$expTgl[0];",
+			", [",
+			"getGraphic",
+			"Chart",
+			"chart",
+			"options_2",
+			"options",
+			"Options",
+			"options",
+			"Options",
+			"options",
+			"option_scatter",
+			"get_scatter_plot",
+			"grafik_scatter_plot",
+			"get_scatter_plot",
+			"scatter_chart",
+			"Chart",
+			"chart",
+			"LoadingOverlay",
+			"option_scatter",
+			"grafik_scatter_plot",
+			"$tahun",
+			"options",
+			" = $",
+			"grafik_kumulatif",
+			"inputJurusan",
+			"grafik_kumulatif",
+			"get_grafik_keseluruhan",
+			"renderer",
+			"[0]",
+			"JML_MHS",
+			"[0]",
+			"get_grafik_keseluruhan_model",
+			"AND A.FLulusJurusanID = $addWhere",
+			"$",
+			"$row['",
+			"data",
+			"\t\n",
+			"data",
+			"mysqli_connect(\"localhost\",\"c12nilai\",\"PenumpingSolo16\",\"c12nilai\");",
+			"nim",
+			"restsvr",
+			"server_b2",
+			"skk"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mysqli_connect(\"localhost\",\"root\",\"\",\"c12nilai\");"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2806,
+								2806
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 945.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blog/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mysite-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sppdview",
+				"sppd\\views.py"
+			],
+			[
+				"settings",
+				"mini_hrd\\settings.py"
+			],
+			[
+				"ulr",
+				"mini_hrd\\urls.py"
+			],
+			[
+				"statistik",
+				"application\\controllers\\statistik_pmb.php"
+			],
+			[
+				"view_grafik_kumulatif",
+				"application\\views\\pmb\\view_grafik_kumulatif.php"
+			],
+			[
+				"viewgrafikkes",
+				"application\\views\\pmb\\view_grafik_keseluruhan.php"
+			],
+			[
+				"viewgrafikkompa",
+				"application\\views\\pmb\\view_grafik_komparasi.php"
+			],
+			[
+				"route",
+				"application\\config\\routes.php"
+			],
+			[
+				"viewkesel",
+				"application\\views\\pmb\\view_grafik_keseluruhan.php"
+			],
+			[
+				"statis",
+				"application\\controllers\\statistik_pmb.php"
+			],
+			[
+				"statispmb",
+				"application\\models\\statistik_pmb_model.php"
+			],
+			[
+				"statispmbmodel",
+				"application\\models\\statistik_pmb_model.php"
+			],
+			[
+				"ee1",
+				"ee1.php"
+			],
+			[
+				"e1",
+				"e1.php"
+			],
+			[
+				"input_prostho",
+				"input_prostho.php"
+			],
+			[
+				"t1",
+				"t1.php"
+			],
+			[
+				"tatpmbmodel",
+				"application\\models\\statistik_pmb_model.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"common",
+				"system\\core\\Common.php"
+			],
+			[
+				"database",
+				"application\\config\\database.php"
+			],
+			[
+				"routes",
+				"application\\config\\routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
